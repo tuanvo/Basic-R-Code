@@ -3,4 +3,4 @@ install.packages("tidyverse")
 install.packages("pacman")
 # Load library
 library(pacman)
-readxl::
+?pacman
